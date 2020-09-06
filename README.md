@@ -1,6 +1,6 @@
 # CSS - Positioning of elements
 
-This repo displays (currently four) the five position styles available to us in css;
+This repo displays the five position styles available to us in css;
 
 ```css
  {
@@ -151,3 +151,25 @@ body {
 Results into;
 
 <img src="./images/fixed.gif" alt="Gif of fixed layout">
+
+## Sticky
+
+Last but not least is position sticky. Sticky is a combination of position relative and fixed. By default, Sticky is relative. As soon as we pass the sticky element when scrolling down the page - it will stick with us and move along.
+
+We can implement sticky by writing the following rules;
+
+```css
+ul li:nth-child(3) {
+  background: black;
+  position: sticky;
+  top: 0;
+  margin: 0;
+  left: 1em;
+}
+```
+
+Which results in;
+<img src="./images/sticky.gif" alt="Gif of sticky layout">
+
+And that's it!
+Thanks for reading - hope you now have a better understanding of the css property position.
