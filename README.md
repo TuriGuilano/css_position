@@ -169,6 +169,7 @@ ul li:nth-child(3) {
 ```
 
 Which results in;
+
 <img src="./images/sticky.gif" alt="Gif of sticky layout">
 
 And that's it!
