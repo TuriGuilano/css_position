@@ -149,4 +149,5 @@ body {
 ```
 
 Results into;
+
 <img src="./images/fixed.gif" alt="Gif of fixed layout">
