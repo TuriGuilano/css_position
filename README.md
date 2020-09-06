@@ -1,6 +1,6 @@
 # CSS - Positioning of elements
 
-This repo displays (currently only one) the five position styles available to us in css;
+This repo displays (currently four) the five position styles available to us in css;
 
 ```css
  {
